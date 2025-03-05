@@ -1,0 +1,2 @@
+<script src="https://your-website-name.com/griderbotrading-psychology-widget.js"></script>
+<griderbotrading-psychology-widget></griderbotrading-psychology-widget>
