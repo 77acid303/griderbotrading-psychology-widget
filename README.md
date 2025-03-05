@@ -1,6 +1,5 @@
 # 🧠 Trading Psychology Widget ➡︎ A FREE widget for your website!
 ==>  With this widget, you receive a random trading psychology insight every day for 30 days. <==
-**Demo:** 
 [https://77acid303.github.io/griderbotrading-psychology-widget/demo/](https://77acid303.github.io/griderbotrading-psychology-widget/demo/)
 
 ---
